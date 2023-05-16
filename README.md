@@ -1,4 +1,4 @@
-# Crypto Watch Tower
+# Crypto Watch Tower.
 
 Market data : `https://api.coingecko.com/api/v3/global`
 
